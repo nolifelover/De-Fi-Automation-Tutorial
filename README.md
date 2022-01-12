@@ -1,7 +1,7 @@
 # DeFi Automation Tutorial
 
 ```
-git clone https://github.com/earthchie/De-Fi-Automation-Tutorial
+git clone repo
 cd ./De-Fi-Automation-Tutorial
 npm i
 ```
